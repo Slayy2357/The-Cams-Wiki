@@ -10,6 +10,12 @@ nav.menu-nav ul li.btn a{
 	padding: 5px;
 }
 
+nav.menu-nav ul li.btn:hover a{
+	color: #000000;
+	background-color: #C10202;
+	transition: 0.3 all;
+}
+
 body {
 	background-color: #000000
 }
