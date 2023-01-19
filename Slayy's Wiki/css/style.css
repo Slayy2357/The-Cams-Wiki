@@ -1,0 +1,27 @@
+
+nav.menu-nav ul li.btn{
+border : 1px solid #000; padding : 5px;
+}
+
+nav.menu-nav ul li.btn a{
+	color: black;
+	background-color: #DA2700;
+	text-decoration: none;
+	padding: 5px;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: #000000;
+	background-color: #C10202;
+	transition: 0.3 all;
+}
+
+body {
+	background-color: #000000
+}
+h1 {
+	color: #FF0000
+}
+a {
+	#FF0000
+}
